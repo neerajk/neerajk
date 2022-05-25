@@ -12,14 +12,19 @@
   <img align="left" alt="Neeraj's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/">
-  <img align="left" alt="Neeraj K | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Neeraj K Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/neerajkaroshi/">
-  <img align="left" alt="Neeraj's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Neeraj's LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.kaggle.com/neerajkaroshi/">
   <img align="left" alt="Neeraj's Kaggle"  src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" />
 </a>
+
+<a href="https://open.spotify.com/playlist/4ATZqv0B9FZICNb8r6lHvP?si=pcoSiExgR7yFuSciFHq98A">
+  <img align="left" alt="Neeraj's Spotify"  src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
+</a>
+
 <br /><br />
 hi, I'm Neeraj, a passionate self-taught AI enthusiast with research interests in Computer Vision, Deep Learning, NLP, Patter Recognition and still looking for various latest research topics.
 <br />
@@ -33,8 +38,6 @@ Illumiwhatty?
 ![Years Badge](https://badges.pufler.dev/years/neerajk)
 ![](https://badges.pufler.dev/repos/neerajk)
 ![](https://badges.pufler.dev/commits/monthly/neerajk)
-
-
 
 
 <p align="center"><br />
@@ -56,6 +59,7 @@ Illumiwhatty?
 
 ## 👯 I’m looking to collaborate on
 - Kaggle Comps
+- Research papers
 
 ## 💼 Technical Skills
 
@@ -80,7 +84,12 @@ Illumiwhatty?
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=neerajk&show_icons=true&theme=gotham" alt="neerajvk" />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neerajk&layout=compact" alt="neerajvk" />
   
-
+## 💬 Ask me about 
+- Crypto
+- Music
+- Games
+- Football
+- F1
 <!--
 
 **neerajk/neerajk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
