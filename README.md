@@ -20,6 +20,11 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=neerajk.neerajk) 
+
+<br />
+hi, I'm Neeraj, a passionate self-taught AI enthusiast with research interests in Computer Vision, Deep Learning, NLP, Patter Recognition and still looking for various latest research topics.
+<br />
+I also love to play with data and make sense out of them, create classy vizs.
 <!--
 
 **neerajk/neerajk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
