@@ -28,7 +28,17 @@ I also love to play with data and make sense out of them, create classy vizs.
 <img src="https://user-images.githubusercontent.com/31629553/170257709-209c928e-540c-4ff2-8a4a-57fba1f17226.jpg" alt="my banner" width="600px"></p>
 
 ## 🔭 I'm currently working on
-- Kaggle 
+- Kaggle Datasets
+
+## 🌱 I'm currently learning
+- Computer Vision
+- Machine Learning
+- Deep Learning
+- Neural Networks
+- AWS tools
+- NLP in TensorFlow
+- ML Pipelines using BERT
+- AutoML
 <!--
 
 **neerajk/neerajk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
