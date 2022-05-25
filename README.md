@@ -18,6 +18,8 @@
 <a href="https://www.linkedin.com/in/neerajkaroshi/">
   <img align="left" alt="Neeraj's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=neerajk.neerajk) 
 <!--
 
 **neerajk/neerajk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
