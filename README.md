@@ -19,6 +19,8 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=neerajk.neerajk) 
+![Years Badge](https://badges.pufler.dev/years/neerajk)
+
 
 <br />
 hi, I'm Neeraj, a passionate self-taught AI enthusiast with research interests in Computer Vision, Deep Learning, NLP, Patter Recognition and still looking for various latest research topics.
