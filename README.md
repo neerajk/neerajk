@@ -1,10 +1,10 @@
 
-<p align ='center'>
+
   
 ![banner](https://user-images.githubusercontent.com/31629553/170257709-209c928e-540c-4ff2-8a4a-57fba1f17226.jpg)
-
-<h5> Hi there 👋 I'm Neeraj <h5>
-</p>
+<h3 align="center">
+ Hi there 👋 I'm Neeraj 
+  </h3>
 
 <!--
 
