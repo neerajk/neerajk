@@ -1,7 +1,9 @@
 ### Hi there 👋
 ![banner](https://user-images.githubusercontent.com/31629553/170257709-209c928e-540c-4ff2-8a4a-57fba1f17226.jpg)
 
-<!--![Blue Yellow Futuristic Virtual Technology Blog Banner]
+<img src=”https://userimages.githubusercontent.com/31629553/170257709-209c928e-540c-4ff2-8a4a-57fba1f17226.jpg" alt=”my banner”>
+
+<!--
 
 **neerajk/neerajk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
