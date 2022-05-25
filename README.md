@@ -17,6 +17,9 @@
 <a href="https://www.linkedin.com/in/neerajkaroshi/">
   <img align="left" alt="Neeraj's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://www.kaggle.com/neerajkaroshi/">
+  <img align="left" alt="Neeraj's Kaggle"  src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
 <br /><br />
 hi, I'm Neeraj, a passionate self-taught AI enthusiast with research interests in Computer Vision, Deep Learning, NLP, Patter Recognition and still looking for various latest research topics.
 <br />
@@ -58,7 +61,8 @@ Illumiwhatty?
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=61DAFB)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=FEF9D9)
-![MySQL](https://img.shields.io/badge/DB-MySQL-informational?style=plastic&logo=mysql&Color=EF9F9F)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=155E63)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=865439)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
