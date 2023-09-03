@@ -5,9 +5,7 @@
   
 ## 🤝 Connect with me:
 
-<a href="https://www.instagram.com/neerajk0240/">
-  <img align="left" alt="Neeraj's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
+
 <a href="https://discord.gg/">
   <img align="left" alt="Neeraj's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -40,18 +38,11 @@ Illumiwhatty?
 ![](https://badges.pufler.dev/commits/monthly/neerajk)
 
 
-<p align="center"><br />
-<img src="https://user-images.githubusercontent.com/31629553/170257709-209c928e-540c-4ff2-8a4a-57fba1f17226.jpg" alt="my banner" width="600px"></p>
-
-## 🔭 I'm currently working on
-- Kaggle Datasets
-
 ## 🌱 I'm currently learning
 - Computer Vision
 - Machine Learning
 - Deep Learning
 - Neural Networks
-- AWS tools
 - NLP in TensorFlow <!--![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)-->
 - ML Pipelines using BERT
 - AutoML
