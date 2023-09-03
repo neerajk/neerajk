@@ -6,12 +6,6 @@
 ## 🤝 Connect with me:
 
 
-<a href="https://discord.gg/">
-  <img align="left" alt="Neeraj's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/">
-  <img align="left" alt="Neeraj K Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/neerajkaroshi/">
   <img align="left" alt="Neeraj's LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
