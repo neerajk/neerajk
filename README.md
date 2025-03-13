@@ -1,16 +1,18 @@
 
 <h3 align="center">
  Hi there 👋 
- 
+ <br>
+ <br>
 <a href="https://www.linkedin.com/in/neerajkaroshi/">
-  <img align="left" alt="Neeraj's LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img  alt="Neeraj's LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.kaggle.com/neerajkaroshi/">
-  <img align="left" alt="Neeraj's Kaggle"  src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" />
+  <img alt="Neeraj's Kaggle"  src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" />
 </a>
 
 
-
+<br>
+<br>
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=61DAFB)
