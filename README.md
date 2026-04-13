@@ -20,12 +20,12 @@ I specialize in bridging the gap between Deep Learning and Remote Sensing. My wo
 
 ### 🚀 Featured Projects
 
-#### 🛰️ [Clay LULC](https://github.com/yourusername/clay-lulc)
+#### 🛰️ [Clay LULC](https://github.com/neerajk/clay-lulc)
 *Foundation Model for Land Use and Land Cover (LULC).*
 - Utilized the **Clay Foundation Model** for fine-tuning on multi-spectral satellite imagery.
 - Improved classification accuracy in heterogeneous landscapes by leveraging self-supervised pre-training weights.
 
-#### 🌳 [CHM-DinoV3](https://github.com/yourusername/chm2-dino)
+#### 🌳 [CHM-DinoV3](https://github.com/neerajk/chm2-dino)
 *Canopy Height Model Generation.*
 - Developed a high-resolution CHM estimation pipeline using the **DinoV3 (Vision Transformer)** architecture.
 - Trained on the **CHM2 dataset**, pushing the boundaries of monocular height estimation from satellite/aerial imagery.
